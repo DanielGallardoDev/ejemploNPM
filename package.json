@@ -1,0 +1,23 @@
+{
+  "name": "ejemplonpm",
+  "version": "1.0.0",
+  "description": "ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielGallardoDev/ejemploNPM.git"
+  },
+  "keywords": [
+    "demo",
+    "npm"
+  ],
+  "author": "Babel Group",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielGallardoDev/ejemploNPM/issues"
+  },
+  "homepage": "https://github.com/DanielGallardoDev/ejemploNPM#readme"
+}
